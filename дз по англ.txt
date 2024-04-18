@@ -1,0 +1,27 @@
+searching - поисковый
+noticed - замеченный
+estimate - оценивать
+environmental - экологический
+similar - схожий
+transparency - прозрачность
+emissions - выбросы
+exceeding - превышающий
+Escalating - Нарастающий
+forecasts - прогнозы
+power-capping - ограничение мощности
+hardware - оборудование
+exceed - превышать
+
+
+Google now displays carbon-emission estimates alongside flight costs, but a similar transparency doesn't exist for the computing industry. Yet, the IT industry's carbon emissions exceed those of the entire airline industry. Large AI models like ChatGPT contribute to this trend, with data centers projected to consume up to 21% of the world's electricity by 2030.
+
+MIT's Lincoln Laboratory Supercomputing Center (LLSC) is developing energy-saving techniques for data centers. Their methods range from simple, effective changes like power capping to tools that can halt AI training early without significantly impacting model performance.
+
+Their work promotes green computing research and transparency, as they strive to address the energy challenges posed by the growing AI and data center industry.
+
+
+Google теперь отображает оценки выбросов углекислого газа наряду со стоимостью перелета, но подобной прозрачности не существует для компьютерной индустрии. Тем не менее, выбросы углекислого газа в ИТ-индустрии превышают выбросы во всей авиационной отрасли. Крупные модели искусственного интеллекта, такие как ChatGPT, способствуют этой тенденции: по прогнозам, к 2030 году центры обработки данных будут потреблять до 21% мировой электроэнергии.
+
+Суперкомпьютерный центр Lincoln Laboratory Массачусетского технологического института (LLSC) разрабатывает методы энергосбережения для центров обработки данных. Их методы варьируются от простых, эффективных изменений, таких как ограничение мощности, до инструментов, которые могут остановить обучение ИИ на ранней стадии без существенного влияния на производительность модели.
+
+Их работа способствует исследованиям в области экологически чистых вычислений и прозрачности, поскольку они стремятся решить энергетические проблемы, возникающие в связи с растущей индустрией искусственного интеллекта и центров обработки данных.
